@@ -1,4 +1,4 @@
-# Guess-heFlag
+# GuessTheFlag
 100 days of SwiftUI. project2 (completed)
 
 
